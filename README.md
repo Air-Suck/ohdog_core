@@ -1,3 +1,5 @@
+HDC 2026:https://v.douyin.com/LEybyLX9mko/
+
 # Lite3 SDK Deploy
 
 PS: 本文档基于ROS
