@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -Wl,--disable-new-dtags CMakeFiles/test_npu_udp_client.dir/test/test_npu_udp_client.cpp.o CMakeFiles/test_npu_udp_client.dir/interface/npu/board_a/udp_infer_client.cpp.o -o test_npu_udp_client  -lpthread 

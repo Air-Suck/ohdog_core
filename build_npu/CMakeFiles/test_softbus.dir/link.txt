@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -Wl,--disable-new-dtags CMakeFiles/test_softbus.dir/test/softbus.cpp.o -o test_softbus  -lpthread 

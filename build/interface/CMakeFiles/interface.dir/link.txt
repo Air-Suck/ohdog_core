@@ -1,0 +1,2 @@
+/home/noah/code/robotpi/delivery/ohos-sdk/linux/18/native/llvm/bin/llvm-ar qc libinterface.a CMakeFiles/interface.dir/__/third_party/gamepad/src/gamepad.cpp.o CMakeFiles/interface.dir/__/third_party/gamepad/src/retroid_gamepad.cpp.o CMakeFiles/interface.dir/__/third_party/gamepad/src/skydroid_gamepad.cpp.o CMakeFiles/interface.dir/__/third_party/gamepad/src/udp_receiver.cpp.o
+/home/noah/code/robotpi/delivery/ohos-sdk/linux/18/native/llvm/bin/llvm-ranlib libinterface.a
