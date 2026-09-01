@@ -24,6 +24,11 @@ graph LR
     B -->|/JOINTS_DATA| A
     C["/retroid_gamepad"] -->|/GAMEPAD_DATA| A
 ```
+
+## Demo
+
+<video src="demo/demo.mp4" controls width="800"></video>
+
 ```bash
 # ros2 topic list
 /BATTERY_DATA(Not yet open)
