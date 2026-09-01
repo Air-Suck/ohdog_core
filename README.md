@@ -1,3 +1,7 @@
+## Demo
+
+https://github.com/user-attachments/assets/7b8caf8e-ac39-460f-aa2d-bb0472be3110
+
 HDC 2026:https://v.douyin.com/LEybyLX9mko/
 
 # Lite3 SDK Deploy
@@ -5,10 +9,6 @@ HDC 2026:https://v.douyin.com/LEybyLX9mko/
 PS: 本文档基于ROS
 
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=Discord&logoColor=white)](https://discord.gg/gdM9mQutC8)  
-
-## Demo
-
-[📹 Demo Video](demo/demo.mp4)
 
 ## Note
 <span style="color: red;">**SDK deployment is only available for Lite 3 Venture Edition.**</span>  
